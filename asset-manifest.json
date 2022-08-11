@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/github.io/Deep_Technologies/static/css/main.420b81a0.css",
+    "main.js": "/github.io/Deep_Technologies/static/js/main.349fc8da.js",
+    "static/js/787.ec78c698.chunk.js": "/github.io/Deep_Technologies/static/js/787.ec78c698.chunk.js",
+    "static/media/Screen.png": "/github.io/Deep_Technologies/static/media/Screen.072cbb144d6d4ba6fde3.png",
+    "static/media/bar.png": "/github.io/Deep_Technologies/static/media/bar.cdd9407eecf807b92b24.png",
+    "static/media/r3.png": "/github.io/Deep_Technologies/static/media/r3.79272bd454624888a81c.png",
+    "static/media/r1.png": "/github.io/Deep_Technologies/static/media/r1.6e51c8b59702c5c2b70d.png",
+    "static/media/r2.png": "/github.io/Deep_Technologies/static/media/r2.c12d6dd7a6c5809b355b.png",
+    "static/media/Search.png": "/github.io/Deep_Technologies/static/media/Search.d336961a057b4b87ad19.png",
+    "index.html": "/github.io/Deep_Technologies/index.html",
+    "main.420b81a0.css.map": "/github.io/Deep_Technologies/static/css/main.420b81a0.css.map",
+    "main.349fc8da.js.map": "/github.io/Deep_Technologies/static/js/main.349fc8da.js.map",
+    "787.ec78c698.chunk.js.map": "/github.io/Deep_Technologies/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420b81a0.css",
+    "static/js/main.349fc8da.js"
+  ]
+}
